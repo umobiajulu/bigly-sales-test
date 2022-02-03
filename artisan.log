@@ -1,0 +1,3 @@
+[2022-02-03 16:04:11] local.INFO: 'make:command' NewCommand  
+[2022-02-03 16:06:26] local.INFO: 'make:command' NameLogger  
+[2022-02-03 16:13:11] local.INFO: 'make:controller' --resource TaskResourceController  
